@@ -1,2 +1,2 @@
-# Programacao URI Online Judge
- Exercícios para treino de programação feitos no URI
+## 🖥️ Programação Beecrowd 
+📌  Exercícios para treino de programação feitos no Beecrowd.
